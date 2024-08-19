@@ -1,0 +1,20 @@
+
+jiasu.png
+size: 557,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuangbeiguangxiao33
+  rotate: true
+  xy: 2, 2
+  size: 240, 383
+  orig: 240, 383
+  offset: 0, 0
+  index: -1
+shuangbeitexiao
+  rotate: false
+  xy: 387, 16
+  size: 168, 226
+  orig: 168, 226
+  offset: 0, 0
+  index: -1

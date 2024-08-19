@@ -1,0 +1,34 @@
+
+jsbiao.png
+size: 914,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lighting
+  rotate: true
+  xy: 745, 257
+  size: 299, 167
+  orig: 299, 167
+  offset: 0, 0
+  index: -1
+payout
+  rotate: true
+  xy: 2, 274
+  size: 282, 711
+  orig: 284, 712
+  offset: 0, 1
+  index: -1
+payout_hilight
+  rotate: true
+  xy: 684, 11
+  size: 261, 59
+  orig: 261, 60
+  offset: 0, 0
+  index: -1
+payout_selected
+  rotate: true
+  xy: 2, 2
+  size: 270, 680
+  orig: 270, 680
+  offset: 0, 0
+  index: -1

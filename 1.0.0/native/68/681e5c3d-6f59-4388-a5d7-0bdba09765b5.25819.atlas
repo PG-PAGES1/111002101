@@ -1,0 +1,41 @@
+
+floewr.png
+size: 366,460
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sakura
+  rotate: false
+  xy: 282, 81
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+sakura_left
+  rotate: true
+  xy: 2, 140
+  size: 318, 221
+  orig: 320, 221
+  offset: 1, 0
+  index: -1
+sakura_rightA
+  rotate: true
+  xy: 225, 297
+  size: 161, 133
+  orig: 162, 137
+  offset: 1, 1
+  index: -1
+sakura_rightB
+  rotate: false
+  xy: 2, 2
+  size: 278, 136
+  orig: 279, 137
+  offset: 1, 1
+  index: -1
+sakura_rightC
+  rotate: false
+  xy: 225, 165
+  size: 129, 130
+  orig: 130, 131
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,83 @@
+
+yabao.png
+size: 1510,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bet1
+  rotate: true
+  xy: 632, 3
+  size: 223, 187
+  orig: 224, 189
+  offset: 0, 2
+  index: -1
+bet2
+  rotate: true
+  xy: 254, 2
+  size: 224, 187
+  orig: 225, 189
+  offset: 0, 2
+  index: -1
+bet3
+  rotate: true
+  xy: 821, 3
+  size: 223, 187
+  orig: 224, 189
+  offset: 1, 2
+  index: -1
+bet_bottom
+  rotate: true
+  xy: 1388, 70
+  size: 51, 120
+  orig: 51, 120
+  offset: 0, 0
+  index: -1
+bet_top
+  rotate: false
+  xy: 1388, 4
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+buttonspining
+  rotate: false
+  xy: 1388, 123
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+ingot1_dis
+  rotate: true
+  xy: 1199, 4
+  size: 222, 187
+  orig: 223, 189
+  offset: 0, 2
+  index: -1
+ingot2_dis
+  rotate: true
+  xy: 443, 2
+  size: 224, 187
+  orig: 225, 189
+  offset: 0, 2
+  index: -1
+ingot3_dis
+  rotate: true
+  xy: 1010, 3
+  size: 223, 187
+  orig: 223, 189
+  offset: 0, 2
+  index: -1
+mouse_over
+  rotate: false
+  xy: 2, 6
+  size: 250, 220
+  orig: 250, 220
+  offset: 0, 0
+  index: -1
+yellow_rotate_lighting
+  rotate: true
+  xy: 1448, 13
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1

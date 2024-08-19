@@ -1,0 +1,69 @@
+
+win.png
+size: 2024,1682
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+slot_0/2_halfres
+  rotate: true
+  xy: 1101, 11
+  size: 600, 319
+  orig: 600, 319
+  offset: 0, 0
+  index: -1
+slot_0/3_halfres
+  rotate: false
+  xy: 1422, 262
+  size: 600, 319
+  orig: 600, 319
+  offset: 0, 0
+  index: -1
+slot_0/frame_fixed
+  rotate: false
+  xy: 2, 1145
+  size: 1097, 535
+  orig: 1097, 535
+  offset: 0, 0
+  index: -1
+slot_0/light_1
+  rotate: false
+  xy: 1422, 2
+  size: 542, 258
+  orig: 600, 319
+  offset: 30, 31
+  index: -1
+slot_0/reel_base_wo
+  rotate: false
+  xy: 2, 609
+  size: 1097, 534
+  orig: 1097, 534
+  offset: 0, 0
+  index: -1
+slot_0/ui_mainreel_innerlights_singlelight
+  rotate: false
+  xy: 1422, 583
+  size: 33, 28
+  orig: 37, 32
+  offset: 2, 2
+  index: -1
+slot_1/reel_win_gradientbehindsymbols
+  rotate: true
+  xy: 1580, 583
+  size: 1097, 394
+  orig: 1097, 534
+  offset: 0, 70
+  index: -1
+slot_1/reel_win_gradientinfrontofshadowlayer
+  rotate: false
+  xy: 2, 73
+  size: 1097, 534
+  orig: 1097, 534
+  offset: 0, 0
+  index: -1
+slot_1/reelshadow_qtres
+  rotate: true
+  xy: 1101, 613
+  size: 1067, 477
+  orig: 1067, 477
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+multiplier.png
+size: 265,369
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lighting
+  rotate: true
+  xy: 2, 68
+  size: 299, 167
+  orig: 299, 167
+  offset: 0, 0
+  index: -1
+multiplier_x1
+  rotate: true
+  xy: 171, 6
+  size: 120, 91
+  orig: 120, 91
+  offset: 0, 0
+  index: -1
+multiplier_x2
+  rotate: true
+  xy: 171, 128
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+multiplier_x3
+  rotate: true
+  xy: 171, 248
+  size: 119, 92
+  orig: 119, 92
+  offset: 0, 0
+  index: -1
+shineglow_white
+  rotate: true
+  xy: 2, 2
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+bg_particle.png
+size: 32,32
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lzj
+  rotate: false
+  xy: 2, 2
+  size: 28, 28
+  orig: 31, 31
+  offset: 1, 2
+  index: -1

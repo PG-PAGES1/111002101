@@ -1,0 +1,62 @@
+
+dog_win.png
+size: 869,444
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dog_body_plsmask
+  rotate: true
+  xy: 780, 30
+  size: 159, 80
+  orig: 162, 80
+  offset: 3, 0
+  index: -1
+dog_frame_wlights
+  rotate: false
+  xy: 578, 191
+  size: 289, 251
+  orig: 371, 286
+  offset: 40, 14
+  index: -1
+dog_head
+  rotate: false
+  xy: 578, 2
+  size: 200, 187
+  orig: 205, 189
+  offset: 2, 1
+  index: -1
+dog_leftpaw
+  rotate: true
+  xy: 45, 8
+  size: 61, 33
+  orig: 63, 35
+  offset: 0, 2
+  index: -1
+dog_lightA
+  rotate: true
+  xy: 2, 71
+  size: 371, 286
+  orig: 371, 286
+  offset: 0, 0
+  index: -1
+dog_lightB
+  rotate: true
+  xy: 290, 71
+  size: 371, 286
+  orig: 371, 286
+  offset: 0, 0
+  index: -1
+dog_rightpaw
+  rotate: true
+  xy: 2, 11
+  size: 58, 41
+  orig: 59, 46
+  offset: 1, 5
+  index: -1
+dog_yuanbao
+  rotate: true
+  xy: 80, 30
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1

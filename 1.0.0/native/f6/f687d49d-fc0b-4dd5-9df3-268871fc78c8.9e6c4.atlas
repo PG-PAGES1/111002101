@@ -1,0 +1,20 @@
+
+bgTree.png
+size: 377,240
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree_L
+  rotate: true
+  xy: 223, 2
+  size: 236, 152
+  orig: 236, 152
+  offset: 0, 0
+  index: -1
+tree_R
+  rotate: true
+  xy: 2, 4
+  size: 234, 219
+  orig: 234, 219
+  offset: 0, 0
+  index: -1

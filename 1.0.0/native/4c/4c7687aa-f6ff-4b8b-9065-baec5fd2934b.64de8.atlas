@@ -1,0 +1,377 @@
+
+dog_texture.png
+size: 803,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx-glow
+  rotate: false
+  xy: 737, 273
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+fx-zoomdots
+  rotate: true
+  xy: 719, 339
+  size: 68, 75
+  orig: 79, 79
+  offset: 6, 2
+  index: -1
+fx-zoomdots_red
+  rotate: false
+  xy: 720, 486
+  size: 79, 93
+  orig: 81, 96
+  offset: 2, 2
+  index: -1
+p06w-armL
+  rotate: false
+  xy: 586, 678
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+p06w-armR
+  rotate: false
+  xy: 740, 187
+  size: 53, 84
+  orig: 53, 85
+  offset: 0, 1
+  index: -1
+p06w-body
+  rotate: true
+  xy: 647, 761
+  size: 174, 148
+  orig: 174, 156
+  offset: 0, 8
+  index: -1
+p06w-brow
+  rotate: true
+  xy: 484, 5
+  size: 58, 40
+  orig: 59, 40
+  offset: 1, 0
+  index: -1
+p06w-charm
+  rotate: false
+  xy: 650, 185
+  size: 88, 66
+  orig: 88, 66
+  offset: 0, 0
+  index: -1
+p06w-charmhl
+  rotate: false
+  xy: 324, 719
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+p06w-charmholder
+  rotate: false
+  xy: 318, 199
+  size: 36, 42
+  orig: 36, 43
+  offset: 0, 1
+  index: -1
+p06w-cheek
+  rotate: false
+  xy: 690, 681
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+p06w-chin
+  rotate: true
+  xy: 654, 358
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+p06w-collar
+  rotate: false
+  xy: 335, 678
+  size: 249, 73
+  orig: 249, 73
+  offset: 0, 0
+  index: -1
+p06w-ear
+  rotate: false
+  xy: 264, 30
+  size: 102, 167
+  orig: 102, 167
+  offset: 0, 0
+  index: -1
+p06w-eyeL
+  rotate: false
+  xy: 561, 455
+  size: 40, 21
+  orig: 40, 21
+  offset: 0, 0
+  index: -1
+p06w-face
+  rotate: false
+  xy: 2, 460
+  size: 320, 272
+  orig: 320, 272
+  offset: 0, 0
+  index: -1
+p06w-foreL
+  rotate: true
+  xy: 561, 200
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+p06w-foreR
+  rotate: false
+  xy: 559, 108
+  size: 65, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+p06w-hair
+  rotate: false
+  xy: 559, 35
+  size: 70, 71
+  orig: 70, 71
+  offset: 0, 0
+  index: -1
+p06w-maxilla
+  rotate: false
+  xy: 720, 409
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+p06w-mouth
+  rotate: true
+  xy: 718, 115
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+p06w-nose
+  rotate: false
+  xy: 515, 441
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+p06w-paw
+  rotate: false
+  xy: 631, 3
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+p06w-snout
+  rotate: false
+  xy: 647, 719
+  size: 103, 40
+  orig: 103, 40
+  offset: 0, 0
+  index: -1
+p06w-teeth
+  rotate: false
+  xy: 234, 6
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+p06w-tongue
+  rotate: false
+  xy: 642, 678
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+p08w-chin
+  rotate: false
+  xy: 609, 455
+  size: 109, 106
+  orig: 109, 106
+  offset: 0, 0
+  index: -1
+p08w-face
+  rotate: false
+  xy: 335, 753
+  size: 310, 277
+  orig: 310, 277
+  offset: 0, 0
+  index: -1
+p08w-maxilla
+  rotate: false
+  xy: 631, 56
+  size: 72, 63
+  orig: 72, 63
+  offset: 0, 0
+  index: -1
+p08w-snout
+  rotate: true
+  xy: 609, 563
+  size: 113, 82
+  orig: 113, 82
+  offset: 0, 0
+  index: -1
+p08w-tongue
+  rotate: true
+  xy: 429, 2
+  size: 61, 53
+  orig: 61, 53
+  offset: 0, 0
+  index: -1
+p09w-earL
+  rotate: true
+  xy: 647, 937
+  size: 93, 154
+  orig: 93, 154
+  offset: 0, 0
+  index: -1
+p09w-earR
+  rotate: false
+  xy: 561, 352
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+p09w-face
+  rotate: false
+  xy: 2, 734
+  size: 331, 296
+  orig: 331, 296
+  offset: 0, 0
+  index: -1
+p09w-lowersnout
+  rotate: false
+  xy: 650, 253
+  size: 85, 84
+  orig: 85, 84
+  offset: 0, 0
+  index: -1
+p09w-maxilla
+  rotate: false
+  xy: 752, 667
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+p09w-snout
+  rotate: true
+  xy: 561, 256
+  size: 94, 87
+  orig: 94, 87
+  offset: 0, 0
+  index: -1
+p09w-tongue
+  rotate: false
+  xy: 708, 26
+  size: 41, 29
+  orig: 41, 29
+  offset: 0, 0
+  index: -1
+p10w-body
+  rotate: false
+  xy: 318, 243
+  size: 187, 182
+  orig: 187, 192
+  offset: 0, 10
+  index: -1
+p10w-chest
+  rotate: true
+  xy: 368, 65
+  size: 176, 141
+  orig: 178, 141
+  offset: 2, 0
+  index: -1
+p10w-eyeL
+  rotate: false
+  xy: 708, 3
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+p10w-face
+  rotate: false
+  xy: 2, 199
+  size: 314, 259
+  orig: 314, 259
+  offset: 0, 0
+  index: -1
+p10w-foreL
+  rotate: true
+  xy: 2, 32
+  size: 165, 260
+  orig: 165, 260
+  offset: 0, 0
+  index: -1
+p10w-foreR
+  rotate: false
+  xy: 324, 477
+  size: 235, 199
+  orig: 235, 200
+  offset: 0, 1
+  index: -1
+p10w-foreR2
+  rotate: true
+  xy: 626, 121
+  size: 62, 90
+  orig: 65, 90
+  offset: 0, 0
+  index: -1
+p10w-maxilla
+  rotate: true
+  xy: 705, 57
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+p10w-snout
+  rotate: false
+  xy: 693, 581
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+p11-leash
+  rotate: false
+  xy: 2, 5
+  size: 230, 25
+  orig: 230, 25
+  offset: 0, 0
+  index: -1
+p11-leash_b01
+  rotate: false
+  xy: 324, 427
+  size: 189, 48
+  orig: 189, 48
+  offset: 0, 0
+  index: -1
+p11-leash_b02
+  rotate: true
+  xy: 507, 247
+  size: 178, 52
+  orig: 178, 52
+  offset: 0, 0
+  index: -1
+p11-leash_f01
+  rotate: true
+  xy: 368, 2
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+p11-leash_f02
+  rotate: true
+  xy: 511, 81
+  size: 164, 46
+  orig: 164, 46
+  offset: 0, 0
+  index: -1
+p11-leash_f03
+  rotate: true
+  xy: 561, 478
+  size: 198, 46
+  orig: 198, 46
+  offset: 0, 0
+  index: -1

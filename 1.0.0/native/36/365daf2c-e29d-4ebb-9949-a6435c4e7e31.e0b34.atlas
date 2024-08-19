@@ -1,0 +1,34 @@
+
+btn.png
+size: 536,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sb_hover
+  rotate: false
+  xy: 442, 57
+  size: 85, 85
+  orig: 87, 87
+  offset: 1, 1
+  index: -1
+spin_auto
+  rotate: false
+  xy: 301, 2
+  size: 139, 140
+  orig: 139, 142
+  offset: 0, 1
+  index: -1
+spin_paw
+  rotate: false
+  xy: 301, 144
+  size: 233, 204
+  orig: 233, 204
+  offset: 0, 0
+  index: -1
+spin_paw_glow
+  rotate: false
+  xy: 2, 51
+  size: 297, 297
+  orig: 297, 297
+  offset: 0, 0
+  index: -1
